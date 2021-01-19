@@ -1,0 +1,7 @@
+{
+  "name": "scooter-locator",
+  "version": "1.0.0",
+  "description": "A web app that fetches the closest x scooters for a given lat,lon within y meters and plots it on a map.",
+  "author": "prashanthkul",
+  "license": "ISC"
+}
